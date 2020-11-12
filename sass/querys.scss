@@ -1,0 +1,46 @@
+@media screen and (max-width:517px) {
+    .container-error-user-inactive  , .ops-error , .ops-error-title , .ops-error-sub-title , .span-error-letter-o , 
+    .span-error-letter-p , .span-error-letter-s ,  .span-error-letter-inter , .back-inicial-page-span , .back-inicial-page-a {
+        animation: none;
+    }
+    .back-inicial-page-span {
+        background-color: #354F52;
+        box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3)
+    }
+    .ops-error {
+        font-size: 100px
+    }
+    .ops-error-title  {
+        font-size:12px;
+        letter-spacing: 2px;
+      
+       
+    }
+    .ops-error {
+        top:-10px;
+        
+       
+    }
+    .span-error-letter-o {
+        color: white
+    }
+    .span-error-letter-p {
+        color: white
+    }
+    .span-error-letter-s {
+        color: white
+    }
+    .ops-error-title:after  {
+        width: 100px;
+        
+    }
+    .ops-error-sub-title {
+        font-size: 10px;
+        letter-spacing: 0px;
+        margin-top: 5px
+    }
+
+    .container-error-user-inactive {
+        background-size: 1px;
+    }
+}

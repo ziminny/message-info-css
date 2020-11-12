@@ -1,0 +1,19 @@
+{
+  "name": "message-info",
+  "version": "1.0.0",
+  "description": "Tela animada com css e html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziminny/message-info-css.git"
+  },
+  "author": "Vagner Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziminny/message-info-css/issues"
+  },
+  "homepage": "https://github.com/ziminny/message-info-css#readme"
+}
